@@ -50,3 +50,6 @@ commit 시 아이콘 클릭 후 이모지 선택
 
 검색 가능
 ![img_7.png](img_7.png)
+
+결과
+![img_8.png](img_8.png)
